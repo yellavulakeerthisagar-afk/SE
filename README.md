@@ -1,1 +1,1 @@
-# SE
+# Student-Management-System
